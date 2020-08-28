@@ -1,0 +1,32 @@
+C:\SHU\3\Software Engineering\Project_ASE\Project_ASE\bin\Debug\Project_ASE.exe.config
+C:\SHU\3\Software Engineering\Project_ASE\Project_ASE\bin\Debug\Project_ASE.exe
+C:\SHU\3\Software Engineering\Project_ASE\Project_ASE\bin\Debug\Project_ASE.pdb
+C:\SHU\3\Software Engineering\Project_ASE\Project_ASE\bin\Debug\Project_ASE.xml
+C:\SHU\3\Software Engineering\Project_ASE\Project_ASE\obj\Debug\Project_ASE.vbprojResolveAssemblyReference.cache
+C:\SHU\3\Software Engineering\Project_ASE\Project_ASE\obj\Debug\Project_ASE.Register.resources
+C:\SHU\3\Software Engineering\Project_ASE\Project_ASE\obj\Debug\Project_ASE.Resources.resources
+C:\SHU\3\Software Engineering\Project_ASE\Project_ASE\obj\Debug\Project_ASE.vbproj.GenerateResource.cache
+C:\SHU\3\Software Engineering\Project_ASE\Project_ASE\obj\Debug\Project_ASE.vbproj.CoreCompileInputs.cache
+C:\SHU\3\Software Engineering\Project_ASE\Project_ASE\obj\Debug\Project_ASE.exe
+C:\SHU\3\Software Engineering\Project_ASE\Project_ASE\obj\Debug\Project_ASE.xml
+C:\SHU\3\Software Engineering\Project_ASE\Project_ASE\obj\Debug\Project_ASE.pdb
+C:\SHU\3\Software Engineering\Project_ASE\Project_ASE\obj\Debug\Project_ASE.Receipt.resources
+C:\SHU\3\Software Engineering\Project_ASE\Project_ASE\obj\Debug\Project_ASE.OwnersWindow.resources
+C:\SHU\3\Software Engineering\Project_ASE\Project_ASE\obj\Debug\Project_ASE.login.resources
+C:\SHU\3\Software Engineering\Project_ASE\Project_ASE\obj\Debug\Project_ASE.FinalBill.resources
+C:\Users\Yuriy\Desktop\MyProjects\Project_ASE\Project_ASE\Project_ASE\bin\Debug\Project_ASE.exe.config
+C:\Users\Yuriy\Desktop\MyProjects\Project_ASE\Project_ASE\Project_ASE\bin\Debug\Project_ASE.exe
+C:\Users\Yuriy\Desktop\MyProjects\Project_ASE\Project_ASE\Project_ASE\bin\Debug\Project_ASE.pdb
+C:\Users\Yuriy\Desktop\MyProjects\Project_ASE\Project_ASE\Project_ASE\bin\Debug\Project_ASE.xml
+C:\Users\Yuriy\Desktop\MyProjects\Project_ASE\Project_ASE\Project_ASE\obj\Debug\Project_ASE.vbprojAssemblyReference.cache
+C:\Users\Yuriy\Desktop\MyProjects\Project_ASE\Project_ASE\Project_ASE\obj\Debug\Project_ASE.FinalBill.resources
+C:\Users\Yuriy\Desktop\MyProjects\Project_ASE\Project_ASE\Project_ASE\obj\Debug\Project_ASE.Register.resources
+C:\Users\Yuriy\Desktop\MyProjects\Project_ASE\Project_ASE\Project_ASE\obj\Debug\Project_ASE.login.resources
+C:\Users\Yuriy\Desktop\MyProjects\Project_ASE\Project_ASE\Project_ASE\obj\Debug\Project_ASE.Resources.resources
+C:\Users\Yuriy\Desktop\MyProjects\Project_ASE\Project_ASE\Project_ASE\obj\Debug\Project_ASE.OwnersWindow.resources
+C:\Users\Yuriy\Desktop\MyProjects\Project_ASE\Project_ASE\Project_ASE\obj\Debug\Project_ASE.Receipt.resources
+C:\Users\Yuriy\Desktop\MyProjects\Project_ASE\Project_ASE\Project_ASE\obj\Debug\Project_ASE.vbproj.GenerateResource.cache
+C:\Users\Yuriy\Desktop\MyProjects\Project_ASE\Project_ASE\Project_ASE\obj\Debug\Project_ASE.vbproj.CoreCompileInputs.cache
+C:\Users\Yuriy\Desktop\MyProjects\Project_ASE\Project_ASE\Project_ASE\obj\Debug\Project_ASE.exe
+C:\Users\Yuriy\Desktop\MyProjects\Project_ASE\Project_ASE\Project_ASE\obj\Debug\Project_ASE.xml
+C:\Users\Yuriy\Desktop\MyProjects\Project_ASE\Project_ASE\Project_ASE\obj\Debug\Project_ASE.pdb
